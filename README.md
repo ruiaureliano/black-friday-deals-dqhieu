@@ -54,6 +54,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
+| [Sip](https://sipapp.io/blackfriday/) | Native color picker for macOS | **50% OFF** — `BLACKFRIDAY26` Nov 27–29; `CYBERMONDAY26` Nov 30–Dec 2, 2026 | 🔥 |
 | [DevUtils](https://devutils.com/) | All-in-one macOS dev utilities (JSON, JWT, regex, etc.) | **60% OFF** — code `BLACKFRIDAY2026` (Nov 2 – Dec 30) | ✅ |
 | [React PDF](https://react-pdf.org/) | React component library for PDF generation | **50% OFF** dev & org licenses — code `BFCM2026` | ✅ |
 | [Mailtrap](https://mailtrap.io/) | Email testing & sending platform for developers | **15% OFF** annual plans — code `BFCM26` (Nov 26 – Dec 2) | ✅ |
